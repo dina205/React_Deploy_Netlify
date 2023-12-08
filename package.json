@@ -39,5 +39,8 @@
   "resolutions": {
   "node": {
     "crypto": "crypto-browserify@3"
+  },
+    "engines": {
+  "node": "14.x"
   }
 }
